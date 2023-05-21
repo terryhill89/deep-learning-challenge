@@ -82,5 +82,5 @@ Final optimization attempt was successful. There was a sufficent increase using 
 ![4](https://github.com/terryhill89/deep-learning-challenge/assets/112741203/eb0f7535-4d26-445c-ab58-b42635ed105e)
 
 ### Summary:
-Our Goal was to develop a deep learning model to predict the success of applicants for funding by the nonprofit foundation *Alphabet Soup*. We performed data preprocessing, compiled, trained, evaluated and munipulated multiple models to achieve the best performance. On the whole, while the model never reached the target accuracy of 75%, it did come quite close at 73% for the best iteration. The Best model used was the final optimization was Automated Tuning Approach none of the other attempted models came close to the desired performance threshold.
+Our Goal was to develop a deep learning model to predict the success of applicants for funding by the nonprofit foundation *Alphabet Soup*. We performed data preprocessing, compiled, trained, evaluated and munipulated multiple models to achieve the best performance. On the whole, while the model never reached the target accuracy of 75%, it did come quite close at 73% for the best iteration. The Best model used for the final optimization was Automated Tuning Approach none of the other attempted models came close to the desired performance threshold.
 
