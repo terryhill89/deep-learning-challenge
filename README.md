@@ -73,6 +73,15 @@ In the final attempt Compile, Train and Evaluate the model using Automated Tunin
 *!pip install keras_tuner and then
 import the kerastuner library
 import keras_tuner as kt*
+![4](https://github.com/terryhill89/deep-learning-challenge/assets/112741203/3c0da8aa-5a01-410c-8b0d-192813343951)
+
+Final optimization attempt was successful. There was a sufficent increase using the Automated Tuning Approach. I ran the automization model several times with no improvements. After adjusting the model a few times I seen high increase in accuracy. It did not reach 75% The highest score reached was 73%.
+
+***Results:*** Automated Tuning Approach
+![4](https://github.com/terryhill89/deep-learning-challenge/assets/112741203/eb0f7535-4d26-445c-ab58-b42635ed105e)
+
+### Summary:
+
 
 
 
