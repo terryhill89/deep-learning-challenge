@@ -66,6 +66,7 @@ This model was also built with 2 hidden layers, The input layer was determined b
 ***Results:*** 
 3rd optimization attempt has failed. Removing the status and special considerations columns from the model had very little impact on the accuracy of the model only causing a bit of an increase in accuracy.
 ![3](https://github.com/terryhill89/deep-learning-challenge/assets/112741203/64b63152-0d72-4e12-9086-34ab04835df9)
+The loss and accuracy were nearly the same as the first optimization model showing at L: 0.5712 and A: 0.7283 with a slight increase in accuracy showing at L: 0.5583 and A: 0.7296 for model 3.
 
 #### 4. The Final Model: 
 In the final attempt Compile, Train and Evaluate the model using Automated Tuning Approach to see if the accuracy will increase.
@@ -74,7 +75,7 @@ import the kerastuner library
 import keras_tuner as kt*
 
 
-The loss and accuracy were nearly the same as the first optimization model showing at L: 0.5712 and A: 0.7283 with a slight increase in accuracy showing at L: 0.5583 and A: 0.7296 for model 3.
+
 
 
 
